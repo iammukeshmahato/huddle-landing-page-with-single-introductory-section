@@ -36,6 +36,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Author
 
 -  Website - [myselfmukesh.blogspot.com](https://myselfmukesh.blogspot.com/)
--  Frontend Mentor - [@mukeshmahato843](https://www.frontendmentor.io/profile/mukeshmahato843)
+-  Frontend Mentor - [@iammukeshmahato](https://www.frontendmentor.io/profile/iammukeshmahato)
 -  Facebook - [@iammukeshmahato](https://www.facebook.com/iammukeshmahato)
 -  [Message me](https://m.me/iammukeshmahato)
